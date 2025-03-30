@@ -66,12 +66,16 @@ for file in os.listdir(folder_path):
             label = 'Saxophone'
         elif '[cla]' in file_lower:
             label = 'Clarinet'
+        elif '[tru]' in file_lower:
+            label = 'Trumpet'
         elif 'flute' in file_lower:
             label = 'Flute'
         elif 'saxophone' in file_lower or 'sax' in file_lower:
             label = 'Saxophone'
         elif 'clarinet' in file_lower:
             label = 'Clarinet'
+        elif 'trumpet' in file_lower or 'tru' in file_lower:
+            label = 'Trumpet'
         else:
             label = 'Unknown'
 
