@@ -2,10 +2,10 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # Cấu hình kết nối MySQL của bạn
-USERNAME = 'root'         # Thay bằng username MySQL của bạn
-PASSWORD = 'hoang2001' # Thay bằng mật khẩu MySQL của bạn
-HOST = 'localhost'        # thường mặc định là localhost
-DATABASE = 'music_db'     # Database bạn đã tạo trong MySQL
+USERNAME = ''         # Thay bằng username MySQL của bạn
+PASSWORD = '' # Thay bằng mật khẩu MySQL của bạn
+HOST = ''        # thường mặc định là localhost
+DATABASE = ''     # Database bạn đã tạo trong MySQL
 
 # Kết nối vào CSDL MySQL
 connection_str = f'mysql+pymysql://{USERNAME}:{PASSWORD}@{HOST}/{DATABASE}'
