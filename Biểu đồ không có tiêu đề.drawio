@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
+  <diagram name="Trang-1" id="PM6ZyzKvXH4TDzflKSBA">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-l1USWK2it7SZ-RiI_zD-1" value="nhập dataset&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-l1USWK2it7SZ-RiI_zD-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="59.5" as="sourcePoint" />
+            <mxPoint x="270" y="59.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="59.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-l1USWK2it7SZ-RiI_zD-3" value="trích xuất đặc trưng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-l1USWK2it7SZ-RiI_zD-4" value="lưu vào database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-l1USWK2it7SZ-RiI_zD-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="59.5" as="sourcePoint" />
+            <mxPoint x="470" y="59.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="59.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-l1USWK2it7SZ-RiI_zD-7" value="người dùng upload&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-l1USWK2it7SZ-RiI_zD-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="209.5" as="sourcePoint" />
+            <mxPoint x="270" y="209.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="209.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-l1USWK2it7SZ-RiI_zD-9" value="trích xuất đặc trưng file tải lên" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-l1USWK2it7SZ-RiI_zD-10" value="lưu vào db và so sánh với db" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-l1USWK2it7SZ-RiI_zD-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="209.5" as="sourcePoint" />
+            <mxPoint x="470" y="209.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="209.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-l1USWK2it7SZ-RiI_zD-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="209.5" as="sourcePoint" />
+            <mxPoint x="670" y="209.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="209.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-l1USWK2it7SZ-RiI_zD-14" value="trả kết quả 3 file tương đồng nhất&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
