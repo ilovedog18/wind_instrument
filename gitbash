@@ -1,0 +1,2 @@
+source venv/Scripts/activate
+streamlit run search_instrument.py
